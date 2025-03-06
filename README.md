@@ -44,3 +44,5 @@ This is an AI Powered search tool that retrieves results from **Google, YouTube,
    ![Screenshot 2025-03-06 213042](https://github.com/user-attachments/assets/c8549335-5bd6-441d-8fbb-b91113e6d01b)
 
    ![Screenshot 2025-03-06 213057](https://github.com/user-attachments/assets/5d6cc49c-3d60-49e0-8e0f-02c66c09b5d1)
+
+   [AI.docx](https://github.com/user-attachments/files/19112342/AI.docx)
