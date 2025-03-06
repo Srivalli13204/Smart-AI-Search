@@ -36,11 +36,11 @@ This is an AI Powered search tool that retrieves results from **Google, YouTube,
    npm install
    npm start
    The UI will be running at http://localhost:3000/
-   
-   ![Screenshot 2025-03-06 213057](https://github.com/user-attachments/assets/5d6cc49c-3d60-49e0-8e0f-02c66c09b5d1)
-   
-   ![Screenshot 2025-03-06 213042](https://github.com/user-attachments/assets/c8549335-5bd6-441d-8fbb-b91113e6d01b)
-   
-   ![Screenshot 2025-03-06 213027](https://github.com/user-attachments/assets/da98db08-d8bc-47ba-886e-8232c8f5cb3a)
-   
+      
    ![Screenshot 2025-03-06 213001](https://github.com/user-attachments/assets/e8fe98d9-f6ee-4f9a-9294-e4de6f70628f)
+
+   ![Screenshot 2025-03-06 213027](https://github.com/user-attachments/assets/da98db08-d8bc-47ba-886e-8232c8f5cb3a)
+
+   ![Screenshot 2025-03-06 213042](https://github.com/user-attachments/assets/c8549335-5bd6-441d-8fbb-b91113e6d01b)
+
+   ![Screenshot 2025-03-06 213057](https://github.com/user-attachments/assets/5d6cc49c-3d60-49e0-8e0f-02c66c09b5d1)
